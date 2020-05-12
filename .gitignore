@@ -1,0 +1,83 @@
+#built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+#Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+bin/
+build/
+.gradle
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+
+
+# Eclipse
+.settings/
+bin/
+tmp/
+.metadata
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
+
+# IntelliJ
+out/
+.idea/
+.idea_modules/
+**/.idea/workspace.xml
+*.iml
+*.ipr
+*.iws
+
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
+# Android Studio
+*.iml
+.idea
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+.gradle
+build/
+.navigation
+captures/
+output.json 
+
+#NDK
+obj/
+.externalNativeBuild
