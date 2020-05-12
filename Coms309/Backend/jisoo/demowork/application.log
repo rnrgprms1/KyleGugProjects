@@ -1,0 +1,880 @@
+2019-09-29 14:55:04.070  INFO 3416 --- [main] com.example.demo.DemoworkApplication     : Starting DemoworkApplication on DESKTOP-ORI0R47 with PID 3416 (C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork\target\classes started by LGPC in C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork)
+2019-09-29 14:55:04.080  INFO 3416 --- [main] com.example.demo.DemoworkApplication     : No active profile set, falling back to default profiles: default
+2019-09-29 14:55:04.630 ERROR 3416 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+An attempt was made to call a method that does not exist. The attempt was made from the following location:
+
+    org.springframework.context.annotation.AnnotationConfigUtils.processCommonDefinitionAnnotations(AnnotationConfigUtils.java:259)
+
+The following method did not exist:
+
+    org.springframework.beans.factory.annotation.AnnotatedBeanDefinition.setRole(I)V
+
+The method's class, org.springframework.beans.factory.annotation.AnnotatedBeanDefinition, is available from the following locations:
+
+    jar:file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar!/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.class
+    jar:file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.class
+
+It was loaded from the following location:
+
+    file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar
+
+
+Action:
+
+Correct the classpath of your application so that it contains a single, compatible version of org.springframework.beans.factory.annotation.AnnotatedBeanDefinition
+
+2019-09-29 14:56:20.281  INFO 14088 --- [main] com.example.demo.DemoworkApplication     : Starting DemoworkApplication on DESKTOP-ORI0R47 with PID 14088 (C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork\target\classes started by LGPC in C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork)
+2019-09-29 14:56:20.283  INFO 14088 --- [main] com.example.demo.DemoworkApplication     : No active profile set, falling back to default profiles: default
+2019-09-29 14:56:20.782 ERROR 14088 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+An attempt was made to call a method that does not exist. The attempt was made from the following location:
+
+    org.springframework.context.annotation.AnnotationConfigUtils.processCommonDefinitionAnnotations(AnnotationConfigUtils.java:259)
+
+The following method did not exist:
+
+    org.springframework.beans.factory.annotation.AnnotatedBeanDefinition.setRole(I)V
+
+The method's class, org.springframework.beans.factory.annotation.AnnotatedBeanDefinition, is available from the following locations:
+
+    jar:file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar!/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.class
+    jar:file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.class
+
+It was loaded from the following location:
+
+    file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar
+
+
+Action:
+
+Correct the classpath of your application so that it contains a single, compatible version of org.springframework.beans.factory.annotation.AnnotatedBeanDefinition
+
+2019-09-29 14:56:57.468  INFO 9328 --- [main] c.example.demo.DemoworkApplicationTests  : Starting DemoworkApplicationTests on DESKTOP-ORI0R47 with PID 9328 (started by LGPC in C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork)
+2019-09-29 14:56:57.471  INFO 9328 --- [main] c.example.demo.DemoworkApplicationTests  : No active profile set, falling back to default profiles: default
+2019-09-29 14:56:59.876  INFO 9328 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-29 14:57:00.355  INFO 9328 --- [main] c.example.demo.DemoworkApplicationTests  : Started DemoworkApplicationTests in 3.396 seconds (JVM running for 4.841)
+2019-09-29 14:57:00.965  INFO 9328 --- [Thread-1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-29 14:57:17.977  INFO 13428 --- [main] com.example.demo.DemoworkApplication     : Starting DemoworkApplication on DESKTOP-ORI0R47 with PID 13428 (C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork\target\classes started by LGPC in C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork)
+2019-09-29 14:57:17.980  INFO 13428 --- [main] com.example.demo.DemoworkApplication     : No active profile set, falling back to default profiles: default
+2019-09-29 14:57:18.384 ERROR 13428 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+An attempt was made to call a method that does not exist. The attempt was made from the following location:
+
+    org.springframework.context.annotation.AnnotationConfigUtils.processCommonDefinitionAnnotations(AnnotationConfigUtils.java:259)
+
+The following method did not exist:
+
+    org.springframework.beans.factory.annotation.AnnotatedBeanDefinition.setRole(I)V
+
+The method's class, org.springframework.beans.factory.annotation.AnnotatedBeanDefinition, is available from the following locations:
+
+    jar:file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar!/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.class
+    jar:file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.class
+
+It was loaded from the following location:
+
+    file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar
+
+
+Action:
+
+Correct the classpath of your application so that it contains a single, compatible version of org.springframework.beans.factory.annotation.AnnotatedBeanDefinition
+
+2019-09-29 15:25:33.081  INFO 796 --- [main] com.example.demo.DemoworkApplication     : Starting DemoworkApplication on DESKTOP-ORI0R47 with PID 796 (C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork\target\classes started by LGPC in C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork)
+2019-09-29 15:25:33.084  INFO 796 --- [main] com.example.demo.DemoworkApplication     : No active profile set, falling back to default profiles: default
+2019-09-29 15:25:33.497 ERROR 796 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+An attempt was made to call a method that does not exist. The attempt was made from the following location:
+
+    org.springframework.context.annotation.AnnotationConfigUtils.processCommonDefinitionAnnotations(AnnotationConfigUtils.java:259)
+
+The following method did not exist:
+
+    org.springframework.beans.factory.annotation.AnnotatedBeanDefinition.setRole(I)V
+
+The method's class, org.springframework.beans.factory.annotation.AnnotatedBeanDefinition, is available from the following locations:
+
+    jar:file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar!/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.class
+    jar:file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.class
+
+It was loaded from the following location:
+
+    file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar
+
+
+Action:
+
+Correct the classpath of your application so that it contains a single, compatible version of org.springframework.beans.factory.annotation.AnnotatedBeanDefinition
+
+2019-09-29 15:40:00.104  INFO 9536 --- [main] com.example.demo.DemoworkApplication     : Starting DemoworkApplication on DESKTOP-ORI0R47 with PID 9536 (C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork\target\classes started by LGPC in C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork)
+2019-09-29 15:40:00.107  INFO 9536 --- [main] com.example.demo.DemoworkApplication     : No active profile set, falling back to default profiles: default
+2019-09-29 15:40:00.602  INFO 9536 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-09-29 15:40:00.631  INFO 9536 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 18ms. Found 0 repository interfaces.
+2019-09-29 15:40:00.674 ERROR 9536 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+An attempt was made to call a method that does not exist. The attempt was made from the following location:
+
+    org.springframework.context.annotation.AnnotationConfigUtils.processCommonDefinitionAnnotations(AnnotationConfigUtils.java:259)
+
+The following method did not exist:
+
+    org.springframework.beans.factory.annotation.AnnotatedBeanDefinition.setRole(I)V
+
+The method's class, org.springframework.beans.factory.annotation.AnnotatedBeanDefinition, is available from the following locations:
+
+    jar:file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar!/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.class
+    jar:file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.class
+
+It was loaded from the following location:
+
+    file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar
+
+
+Action:
+
+Correct the classpath of your application so that it contains a single, compatible version of org.springframework.beans.factory.annotation.AnnotatedBeanDefinition
+
+2019-09-29 15:41:21.767  INFO 1548 --- [main] com.example.demo.DemoworkApplication     : Starting DemoworkApplication on DESKTOP-ORI0R47 with PID 1548 (C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork\target\classes started by LGPC in C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork)
+2019-09-29 15:41:21.772  INFO 1548 --- [main] com.example.demo.DemoworkApplication     : No active profile set, falling back to default profiles: default
+2019-09-29 15:41:22.281  INFO 1548 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-09-29 15:41:22.306  INFO 1548 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2019-09-29 15:41:22.346 ERROR 1548 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+An attempt was made to call a method that does not exist. The attempt was made from the following location:
+
+    org.springframework.context.annotation.AnnotationConfigUtils.processCommonDefinitionAnnotations(AnnotationConfigUtils.java:259)
+
+The following method did not exist:
+
+    org.springframework.beans.factory.annotation.AnnotatedBeanDefinition.setRole(I)V
+
+The method's class, org.springframework.beans.factory.annotation.AnnotatedBeanDefinition, is available from the following locations:
+
+    jar:file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar!/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.class
+    jar:file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.class
+
+It was loaded from the following location:
+
+    file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar
+
+
+Action:
+
+Correct the classpath of your application so that it contains a single, compatible version of org.springframework.beans.factory.annotation.AnnotatedBeanDefinition
+
+2019-09-29 15:41:46.014  INFO 13860 --- [main] c.example.demo.DemoworkApplicationTests  : Starting DemoworkApplicationTests on DESKTOP-ORI0R47 with PID 13860 (started by LGPC in C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork)
+2019-09-29 15:41:46.016  INFO 13860 --- [main] c.example.demo.DemoworkApplicationTests  : No active profile set, falling back to default profiles: default
+2019-09-29 15:41:46.732  INFO 13860 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-09-29 15:41:46.765  INFO 13860 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 19ms. Found 0 repository interfaces.
+2019-09-29 15:41:47.451 ERROR 13860 --- [main] com.zaxxer.hikari.HikariConfig           : Failed to load driver class com.mysql.cj.jdbc.Driver from HikariConfig class classloader jdk.internal.loader.ClassLoaders$AppClassLoader@28c97a5
+2019-09-29 15:41:47.454  WARN 13860 --- [main] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
+2019-09-29 15:41:47.466  INFO 13860 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-09-29 15:41:47.470 ERROR 13860 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource:
+
+    Property: driverclassname
+    Value: com.mysql.cj.jdbc.Driver
+    Origin: "driverClassName" from property source "source"
+    Reason: Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader
+
+Action:
+
+Update your application's configuration
+
+2019-09-29 15:41:47.516  INFO 13860 --- [main] c.example.demo.DemoworkApplicationTests  : Starting DemoworkApplicationTests on DESKTOP-ORI0R47 with PID 13860 (started by LGPC in C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork)
+2019-09-29 15:41:47.517  INFO 13860 --- [main] c.example.demo.DemoworkApplicationTests  : No active profile set, falling back to default profiles: default
+2019-09-29 15:41:47.706  INFO 13860 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-09-29 15:41:47.711  INFO 13860 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 4ms. Found 0 repository interfaces.
+2019-09-29 15:41:47.843 ERROR 13860 --- [main] com.zaxxer.hikari.HikariConfig           : Failed to load driver class com.mysql.cj.jdbc.Driver from HikariConfig class classloader jdk.internal.loader.ClassLoaders$AppClassLoader@28c97a5
+2019-09-29 15:41:47.845  WARN 13860 --- [main] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
+2019-09-29 15:41:47.850  INFO 13860 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-09-29 15:41:47.852 ERROR 13860 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource:
+
+    Property: driverclassname
+    Value: com.mysql.cj.jdbc.Driver
+    Origin: "driverClassName" from property source "source"
+    Reason: Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader
+
+Action:
+
+Update your application's configuration
+
+2019-09-29 15:41:47.864 ERROR 13860 --- [main] o.s.test.context.TestContextManager      : Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@5d43661b] to prepare test instance [com.example.demo.DemoworkApplicationTests@7cb502c]
+
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:125) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:108) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:118) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:83) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener.prepareTestInstance(SpringBootDependencyInjectionTestExecutionListener.java:43) ~[spring-boot-test-autoconfigure-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:246) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:227) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) ~[junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:246) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) ~[junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) ~[junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365) ~[surefire-junit4-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273) ~[surefire-junit4-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238) ~[surefire-junit4-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159) ~[surefire-junit4-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384) ~[surefire-booter-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345) ~[surefire-booter-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126) ~[surefire-booter-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418) ~[surefire-booter-2.22.2.jar:2.22.2]
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:769) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:218) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1341) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1187) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:392) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1321) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1160) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1105) ~[spring-context-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549) ~[spring-context-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:744) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:391) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120) ~[spring-boot-test-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:99) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:117) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	... 28 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:627) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:607) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1321) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1160) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:277) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1251) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1171) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:857) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:760) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	... 55 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:622) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	... 69 common frames omitted
+Caused by: org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
+	at org.springframework.boot.context.properties.bind.Binder.handleBindError(Binder.java:242) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.bind(Binder.java:218) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.bind(Binder.java:202) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.bind(Binder.java:172) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.jdbc.DataSourceBuilder.bind(DataSourceBuilder.java:93) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.jdbc.DataSourceBuilder.build(DataSourceBuilder.java:75) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration.createDataSource(DataSourceConfiguration.java:43) ~[spring-boot-autoconfigure-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari.dataSource(DataSourceConfiguration.java:85) ~[spring-boot-autoconfigure-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari$$EnhancerBySpringCGLIB$$4aec99de.CGLIB$dataSource$0(<generated>) ~[spring-boot-autoconfigure-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari$$EnhancerBySpringCGLIB$$4aec99de$$FastClassBySpringCGLIB$$377039dd.invoke(<generated>) ~[spring-boot-autoconfigure-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244) ~[spring-core-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:363) ~[spring-context-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari$$EnhancerBySpringCGLIB$$4aec99de.dataSource(<generated>) ~[spring-boot-autoconfigure-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566) ~[na:na]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	... 70 common frames omitted
+Caused by: java.lang.IllegalStateException: Unable to set value for property driver-class-name
+	at org.springframework.boot.context.properties.bind.JavaBeanBinder$BeanProperty.setValue(JavaBeanBinder.java:339) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.JavaBeanBinder.bind(JavaBeanBinder.java:86) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.JavaBeanBinder.bind(JavaBeanBinder.java:70) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.JavaBeanBinder.bind(JavaBeanBinder.java:54) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.lambda$null$4(Binder.java:329) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[na:na]
+	at java.base/java.util.ArrayList$ArrayListSpliterator.tryAdvance(ArrayList.java:1631) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:127) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:502) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:488) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[na:na]
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:543) ~[na:na]
+	at org.springframework.boot.context.properties.bind.Binder.lambda$bindBean$5(Binder.java:330) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder$Context.withIncreasedDepth(Binder.java:429) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder$Context.withBean(Binder.java:415) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder$Context.access$400(Binder.java:372) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.bindBean(Binder.java:328) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.bindObject(Binder.java:269) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.bind(Binder.java:214) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	... 86 common frames omitted
+Caused by: java.lang.reflect.InvocationTargetException: null
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566) ~[na:na]
+	at org.springframework.boot.context.properties.bind.JavaBeanBinder$BeanProperty.setValue(JavaBeanBinder.java:336) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	... 106 common frames omitted
+Caused by: java.lang.RuntimeException: Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader
+	at com.zaxxer.hikari.HikariConfig.setDriverClassName(HikariConfig.java:497) ~[HikariCP-3.2.0.jar:na]
+	... 111 common frames omitted
+
+2019-09-29 15:49:53.529  INFO 17604 --- [main] c.example.demo.DemoworkApplicationTests  : Starting DemoworkApplicationTests on DESKTOP-ORI0R47 with PID 17604 (started by LGPC in C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork)
+2019-09-29 15:49:53.532  INFO 17604 --- [main] c.example.demo.DemoworkApplicationTests  : No active profile set, falling back to default profiles: default
+2019-09-29 15:49:54.240  INFO 17604 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-09-29 15:49:54.279  INFO 17604 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 23ms. Found 0 repository interfaces.
+2019-09-29 15:49:54.859 ERROR 17604 --- [main] com.zaxxer.hikari.HikariConfig           : Failed to load driver class com.mysql.cj.jdbc.Driver from HikariConfig class classloader jdk.internal.loader.ClassLoaders$AppClassLoader@28c97a5
+2019-09-29 15:49:54.861  WARN 17604 --- [main] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
+2019-09-29 15:49:54.874  INFO 17604 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-09-29 15:49:54.878 ERROR 17604 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource:
+
+    Property: driverclassname
+    Value: com.mysql.cj.jdbc.Driver
+    Origin: "driverClassName" from property source "source"
+    Reason: Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader
+
+Action:
+
+Update your application's configuration
+
+2019-09-29 15:49:54.933  INFO 17604 --- [main] c.example.demo.DemoworkApplicationTests  : Starting DemoworkApplicationTests on DESKTOP-ORI0R47 with PID 17604 (started by LGPC in C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork)
+2019-09-29 15:49:54.934  INFO 17604 --- [main] c.example.demo.DemoworkApplicationTests  : No active profile set, falling back to default profiles: default
+2019-09-29 15:49:55.104  INFO 17604 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-09-29 15:49:55.109  INFO 17604 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 4ms. Found 0 repository interfaces.
+2019-09-29 15:49:55.266 ERROR 17604 --- [main] com.zaxxer.hikari.HikariConfig           : Failed to load driver class com.mysql.cj.jdbc.Driver from HikariConfig class classloader jdk.internal.loader.ClassLoaders$AppClassLoader@28c97a5
+2019-09-29 15:49:55.268  WARN 17604 --- [main] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
+2019-09-29 15:49:55.271  INFO 17604 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-09-29 15:49:55.273 ERROR 17604 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource:
+
+    Property: driverclassname
+    Value: com.mysql.cj.jdbc.Driver
+    Origin: "driverClassName" from property source "source"
+    Reason: Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader
+
+Action:
+
+Update your application's configuration
+
+2019-09-29 15:49:55.287 ERROR 17604 --- [main] o.s.test.context.TestContextManager      : Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1e4d3ce5] to prepare test instance [com.example.demo.DemoworkApplicationTests@6304101a]
+
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:125) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:108) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:118) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:83) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener.prepareTestInstance(SpringBootDependencyInjectionTestExecutionListener.java:43) ~[spring-boot-test-autoconfigure-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:246) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:227) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) ~[junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:246) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) ~[junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) ~[junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365) ~[surefire-junit4-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273) ~[surefire-junit4-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238) ~[surefire-junit4-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159) ~[surefire-junit4-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384) ~[surefire-booter-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345) ~[surefire-booter-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126) ~[surefire-booter-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418) ~[surefire-booter-2.22.2.jar:2.22.2]
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:769) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:218) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1341) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1187) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:392) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1321) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1160) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1105) ~[spring-context-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549) ~[spring-context-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:744) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:391) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120) ~[spring-boot-test-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:99) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:117) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	... 28 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:627) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:607) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1321) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1160) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:277) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1251) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1171) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:857) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:760) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	... 55 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:622) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	... 69 common frames omitted
+Caused by: org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
+	at org.springframework.boot.context.properties.bind.Binder.handleBindError(Binder.java:242) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.bind(Binder.java:218) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.bind(Binder.java:202) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.bind(Binder.java:172) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.jdbc.DataSourceBuilder.bind(DataSourceBuilder.java:93) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.jdbc.DataSourceBuilder.build(DataSourceBuilder.java:75) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration.createDataSource(DataSourceConfiguration.java:43) ~[spring-boot-autoconfigure-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari.dataSource(DataSourceConfiguration.java:85) ~[spring-boot-autoconfigure-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari$$EnhancerBySpringCGLIB$$585b9a14.CGLIB$dataSource$0(<generated>) ~[spring-boot-autoconfigure-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari$$EnhancerBySpringCGLIB$$585b9a14$$FastClassBySpringCGLIB$$d47bc3cc.invoke(<generated>) ~[spring-boot-autoconfigure-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244) ~[spring-core-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:363) ~[spring-context-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari$$EnhancerBySpringCGLIB$$585b9a14.dataSource(<generated>) ~[spring-boot-autoconfigure-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566) ~[na:na]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	... 70 common frames omitted
+Caused by: java.lang.IllegalStateException: Unable to set value for property driver-class-name
+	at org.springframework.boot.context.properties.bind.JavaBeanBinder$BeanProperty.setValue(JavaBeanBinder.java:339) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.JavaBeanBinder.bind(JavaBeanBinder.java:86) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.JavaBeanBinder.bind(JavaBeanBinder.java:70) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.JavaBeanBinder.bind(JavaBeanBinder.java:54) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.lambda$null$4(Binder.java:329) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[na:na]
+	at java.base/java.util.ArrayList$ArrayListSpliterator.tryAdvance(ArrayList.java:1631) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:127) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:502) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:488) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[na:na]
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:543) ~[na:na]
+	at org.springframework.boot.context.properties.bind.Binder.lambda$bindBean$5(Binder.java:330) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder$Context.withIncreasedDepth(Binder.java:429) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder$Context.withBean(Binder.java:415) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder$Context.access$400(Binder.java:372) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.bindBean(Binder.java:328) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.bindObject(Binder.java:269) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.bind(Binder.java:214) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	... 86 common frames omitted
+Caused by: java.lang.reflect.InvocationTargetException: null
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566) ~[na:na]
+	at org.springframework.boot.context.properties.bind.JavaBeanBinder$BeanProperty.setValue(JavaBeanBinder.java:336) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	... 106 common frames omitted
+Caused by: java.lang.RuntimeException: Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader
+	at com.zaxxer.hikari.HikariConfig.setDriverClassName(HikariConfig.java:497) ~[HikariCP-3.2.0.jar:na]
+	... 111 common frames omitted
+
+2019-09-29 15:50:47.119  INFO 1268 --- [main] com.example.demo.DemoworkApplication     : Starting DemoworkApplication on DESKTOP-ORI0R47 with PID 1268 (C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork\target\classes started by LGPC in C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork)
+2019-09-29 15:50:47.125  INFO 1268 --- [main] com.example.demo.DemoworkApplication     : No active profile set, falling back to default profiles: default
+2019-09-29 15:50:47.613 ERROR 1268 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+An attempt was made to call a method that does not exist. The attempt was made from the following location:
+
+    org.springframework.context.annotation.AnnotationConfigUtils.processCommonDefinitionAnnotations(AnnotationConfigUtils.java:259)
+
+The following method did not exist:
+
+    org.springframework.beans.factory.annotation.AnnotatedBeanDefinition.setRole(I)V
+
+The method's class, org.springframework.beans.factory.annotation.AnnotatedBeanDefinition, is available from the following locations:
+
+    jar:file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar!/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.class
+    jar:file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.class
+
+It was loaded from the following location:
+
+    file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar
+
+
+Action:
+
+Correct the classpath of your application so that it contains a single, compatible version of org.springframework.beans.factory.annotation.AnnotatedBeanDefinition
+
+2019-09-29 15:58:16.576  INFO 9668 --- [main] com.example.demo.DemoworkApplication     : Starting DemoworkApplication on DESKTOP-ORI0R47 with PID 9668 (C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork\target\classes started by LGPC in C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork)
+2019-09-29 15:58:16.579  INFO 9668 --- [main] com.example.demo.DemoworkApplication     : No active profile set, falling back to default profiles: default
+2019-09-29 15:58:17.280  INFO 9668 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-09-29 15:58:17.326  INFO 9668 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 34ms. Found 0 repository interfaces.
+2019-09-29 15:58:17.390 ERROR 9668 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+An attempt was made to call a method that does not exist. The attempt was made from the following location:
+
+    org.springframework.context.annotation.AnnotationConfigUtils.processCommonDefinitionAnnotations(AnnotationConfigUtils.java:259)
+
+The following method did not exist:
+
+    org.springframework.beans.factory.annotation.AnnotatedBeanDefinition.setRole(I)V
+
+The method's class, org.springframework.beans.factory.annotation.AnnotatedBeanDefinition, is available from the following locations:
+
+    jar:file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar!/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.class
+    jar:file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.class
+
+It was loaded from the following location:
+
+    file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar
+
+
+Action:
+
+Correct the classpath of your application so that it contains a single, compatible version of org.springframework.beans.factory.annotation.AnnotatedBeanDefinition
+
+2019-09-29 15:59:15.892  INFO 16832 --- [main] com.example.demo.DemoworkApplication     : Starting DemoworkApplication on DESKTOP-ORI0R47 with PID 16832 (C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork\target\classes started by LGPC in C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork)
+2019-09-29 15:59:15.895  INFO 16832 --- [main] com.example.demo.DemoworkApplication     : No active profile set, falling back to default profiles: default
+2019-09-29 15:59:16.347  INFO 16832 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-09-29 15:59:16.375  INFO 16832 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 14ms. Found 0 repository interfaces.
+2019-09-29 15:59:16.407 ERROR 16832 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+An attempt was made to call a method that does not exist. The attempt was made from the following location:
+
+    org.springframework.context.annotation.AnnotationConfigUtils.processCommonDefinitionAnnotations(AnnotationConfigUtils.java:259)
+
+The following method did not exist:
+
+    org.springframework.beans.factory.annotation.AnnotatedBeanDefinition.setRole(I)V
+
+The method's class, org.springframework.beans.factory.annotation.AnnotatedBeanDefinition, is available from the following locations:
+
+    jar:file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar!/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.class
+    jar:file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.class
+
+It was loaded from the following location:
+
+    file:/C:/Users/LGPC/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar
+
+
+Action:
+
+Correct the classpath of your application so that it contains a single, compatible version of org.springframework.beans.factory.annotation.AnnotatedBeanDefinition
+
+2019-09-29 15:59:53.597  INFO 16024 --- [main] c.example.demo.DemoworkApplicationTests  : Starting DemoworkApplicationTests on DESKTOP-ORI0R47 with PID 16024 (started by LGPC in C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork)
+2019-09-29 15:59:53.600  INFO 16024 --- [main] c.example.demo.DemoworkApplicationTests  : No active profile set, falling back to default profiles: default
+2019-09-29 15:59:54.383  INFO 16024 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-09-29 15:59:54.425  INFO 16024 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 24ms. Found 0 repository interfaces.
+2019-09-29 15:59:54.998 ERROR 16024 --- [main] com.zaxxer.hikari.HikariConfig           : Failed to load driver class com.mysql.cj.jdbc.Driver from HikariConfig class classloader jdk.internal.loader.ClassLoaders$AppClassLoader@28c97a5
+2019-09-29 15:59:55.000  WARN 16024 --- [main] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
+2019-09-29 15:59:55.010  INFO 16024 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-09-29 15:59:55.016 ERROR 16024 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource:
+
+    Property: driverclassname
+    Value: com.mysql.cj.jdbc.Driver
+    Origin: "driverClassName" from property source "source"
+    Reason: Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader
+
+Action:
+
+Update your application's configuration
+
+2019-09-29 15:59:55.067  INFO 16024 --- [main] c.example.demo.DemoworkApplicationTests  : Starting DemoworkApplicationTests on DESKTOP-ORI0R47 with PID 16024 (started by LGPC in C:\Users\LGPC\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\demowork)
+2019-09-29 15:59:55.067  INFO 16024 --- [main] c.example.demo.DemoworkApplicationTests  : No active profile set, falling back to default profiles: default
+2019-09-29 15:59:55.278  INFO 16024 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-09-29 15:59:55.283  INFO 16024 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 4ms. Found 0 repository interfaces.
+2019-09-29 15:59:55.419 ERROR 16024 --- [main] com.zaxxer.hikari.HikariConfig           : Failed to load driver class com.mysql.cj.jdbc.Driver from HikariConfig class classloader jdk.internal.loader.ClassLoaders$AppClassLoader@28c97a5
+2019-09-29 15:59:55.420  WARN 16024 --- [main] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
+2019-09-29 15:59:55.424  INFO 16024 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-09-29 15:59:55.426 ERROR 16024 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource:
+
+    Property: driverclassname
+    Value: com.mysql.cj.jdbc.Driver
+    Origin: "driverClassName" from property source "source"
+    Reason: Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader
+
+Action:
+
+Update your application's configuration
+
+2019-09-29 15:59:55.439 ERROR 16024 --- [main] o.s.test.context.TestContextManager      : Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@3e2059ae] to prepare test instance [com.example.demo.DemoworkApplicationTests@147a5d08]
+
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:125) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:108) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:118) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:83) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener.prepareTestInstance(SpringBootDependencyInjectionTestExecutionListener.java:43) ~[spring-boot-test-autoconfigure-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:246) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:227) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) ~[junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:246) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) ~[junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) ~[junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) ~[junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365) ~[surefire-junit4-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273) ~[surefire-junit4-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238) ~[surefire-junit4-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159) ~[surefire-junit4-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384) ~[surefire-booter-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345) ~[surefire-booter-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126) ~[surefire-booter-2.22.2.jar:2.22.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418) ~[surefire-booter-2.22.2.jar:2.22.2]
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:769) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:218) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1341) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1187) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:392) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1321) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1160) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1105) ~[spring-context-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549) ~[spring-context-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:744) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:391) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120) ~[spring-boot-test-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:99) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:117) ~[spring-test-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	... 28 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:627) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:607) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1321) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1160) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:277) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1251) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1171) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:857) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:760) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	... 55 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:622) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	... 69 common frames omitted
+Caused by: org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource
+	at org.springframework.boot.context.properties.bind.Binder.handleBindError(Binder.java:242) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.bind(Binder.java:218) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.bind(Binder.java:202) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.bind(Binder.java:172) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.jdbc.DataSourceBuilder.bind(DataSourceBuilder.java:93) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.jdbc.DataSourceBuilder.build(DataSourceBuilder.java:75) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration.createDataSource(DataSourceConfiguration.java:43) ~[spring-boot-autoconfigure-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari.dataSource(DataSourceConfiguration.java:85) ~[spring-boot-autoconfigure-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari$$EnhancerBySpringCGLIB$$278b4a62.CGLIB$dataSource$0(<generated>) ~[spring-boot-autoconfigure-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari$$EnhancerBySpringCGLIB$$278b4a62$$FastClassBySpringCGLIB$$6d0e4689.invoke(<generated>) ~[spring-boot-autoconfigure-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244) ~[spring-core-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:363) ~[spring-context-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	at org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari$$EnhancerBySpringCGLIB$$278b4a62.dataSource(<generated>) ~[spring-boot-autoconfigure-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566) ~[na:na]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154) ~[spring-beans-5.1.9.RELEASE.jar:5.1.9.RELEASE]
+	... 70 common frames omitted
+Caused by: java.lang.IllegalStateException: Unable to set value for property driver-class-name
+	at org.springframework.boot.context.properties.bind.JavaBeanBinder$BeanProperty.setValue(JavaBeanBinder.java:339) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.JavaBeanBinder.bind(JavaBeanBinder.java:86) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.JavaBeanBinder.bind(JavaBeanBinder.java:70) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.JavaBeanBinder.bind(JavaBeanBinder.java:54) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.lambda$null$4(Binder.java:329) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[na:na]
+	at java.base/java.util.ArrayList$ArrayListSpliterator.tryAdvance(ArrayList.java:1631) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:127) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:502) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:488) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[na:na]
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:543) ~[na:na]
+	at org.springframework.boot.context.properties.bind.Binder.lambda$bindBean$5(Binder.java:330) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder$Context.withIncreasedDepth(Binder.java:429) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder$Context.withBean(Binder.java:415) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder$Context.access$400(Binder.java:372) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.bindBean(Binder.java:328) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.bindObject(Binder.java:269) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	at org.springframework.boot.context.properties.bind.Binder.bind(Binder.java:214) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	... 86 common frames omitted
+Caused by: java.lang.reflect.InvocationTargetException: null
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566) ~[na:na]
+	at org.springframework.boot.context.properties.bind.JavaBeanBinder$BeanProperty.setValue(JavaBeanBinder.java:336) ~[spring-boot-2.1.8.RELEASE.jar:2.1.8.RELEASE]
+	... 106 common frames omitted
+Caused by: java.lang.RuntimeException: Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader
+	at com.zaxxer.hikari.HikariConfig.setDriverClassName(HikariConfig.java:497) ~[HikariCP-3.2.0.jar:na]
+	... 111 common frames omitted
+

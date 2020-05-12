@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Expe</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="motivate_me">Motivate Me!</string>
+    <string name="halo">Halo</string>
+    <string name="press_the_button_below_to_get_a_motivational_message">Press The Button Below To Get A Motivational Message</string>
+    <string name="home">Home</string>
+    <string name="hello_d">Hello :D</string>
+</resources>

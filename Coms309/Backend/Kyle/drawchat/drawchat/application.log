@@ -1,0 +1,159 @@
+2019-10-03 01:15:58.382  INFO 5560 --- [main] drawgame.DrawchatApp                     : Starting DrawchatApp on kylehyegeungug.student.iastate.edu with PID 5560 (/Users/HyegeunGug/Desktop/sb_2/Backend/Kyle/drawchat/drawchat/target/classes started by HyegeunGug in /Users/HyegeunGug/Desktop/sb_2/Backend/Kyle/drawchat/drawchat)
+2019-10-03 01:15:58.391  INFO 5560 --- [main] drawgame.DrawchatApp                     : No active profile set, falling back to default profiles: default
+2019-10-03 01:15:59.211  INFO 5560 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-03 01:15:59.410  INFO 5560 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 187ms. Found 1 repository interfaces.
+2019-10-03 01:15:59.849  INFO 5560 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c722056a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-03 01:16:00.204  INFO 5560 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-10-03 01:16:00.236  INFO 5560 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-03 01:16:00.237  INFO 5560 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-03 01:16:00.352  INFO 5560 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-03 01:16:00.352  INFO 5560 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1900 ms
+2019-10-03 01:16:00.565  INFO 5560 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-10-03 01:16:01.046  INFO 5560 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-10-03 01:16:01.106  INFO 5560 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-03 01:16:01.178  INFO 5560 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-03 01:16:01.180  INFO 5560 --- [main] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
+2019-10-03 01:16:01.382  INFO 5560 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-03 01:16:01.574  INFO 5560 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-03 01:16:02.266  INFO 5560 --- [main] o.h.t.schema.internal.SchemaCreatorImpl  : HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@597d48ca'
+2019-10-03 01:16:02.269  INFO 5560 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-10-03 01:16:02.640  INFO 5560 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'clientInboundChannelExecutor'
+2019-10-03 01:16:02.646  INFO 5560 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'clientOutboundChannelExecutor'
+2019-10-03 01:16:02.655  INFO 5560 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'messageBrokerTaskScheduler'
+2019-10-03 01:16:02.892  INFO 5560 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'brokerChannelExecutor'
+2019-10-03 01:16:03.174  WARN 5560 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-03 01:16:03.393  INFO 5560 --- [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Starting...
+2019-10-03 01:16:03.394  INFO 5560 --- [main] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=true, SimpleBrokerMessageHandler [DefaultSubscriptionRegistry[cache[0 destination(s)], registry[0 sessions]]]]
+2019-10-03 01:16:03.394  INFO 5560 --- [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Started.
+2019-10-03 01:16:03.436  INFO 5560 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-03 01:16:03.440  INFO 5560 --- [main] drawgame.DrawchatApp                     : Started DrawchatApp in 5.53 seconds (JVM running for 5.918)
+2019-10-03 01:16:05.965  INFO 5560 --- [Thread-4] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopping...
+2019-10-03 01:16:05.966  INFO 5560 --- [Thread-4] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=false, SimpleBrokerMessageHandler [DefaultSubscriptionRegistry[cache[0 destination(s)], registry[0 sessions]]]]
+2019-10-03 01:16:05.966  INFO 5560 --- [Thread-4] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopped.
+2019-10-03 01:16:05.970  INFO 5560 --- [Thread-4] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'brokerChannelExecutor'
+2019-10-03 01:16:05.971  INFO 5560 --- [Thread-4] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'messageBrokerTaskScheduler'
+2019-10-03 01:16:05.972  INFO 5560 --- [Thread-4] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'clientOutboundChannelExecutor'
+2019-10-03 01:16:05.973  INFO 5560 --- [Thread-4] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'clientInboundChannelExecutor'
+2019-10-03 01:16:05.973  INFO 5560 --- [Thread-4] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-10-03 01:16:05.975  INFO 5560 --- [Thread-4] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-10-03 01:16:05.980  INFO 5560 --- [Thread-4] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-10-03 01:21:41.829  INFO 5626 --- [main] drawgame.DrawchatApplicationTests        : Starting DrawchatApplicationTests on kylehyegeungug.student.iastate.edu with PID 5626 (started by HyegeunGug in /Users/HyegeunGug/Desktop/sb_2/Backend/Kyle/drawchat/drawchat)
+2019-10-03 01:21:41.831  INFO 5626 --- [main] drawgame.DrawchatApplicationTests        : No active profile set, falling back to default profiles: default
+2019-10-03 01:21:42.552  INFO 5626 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-03 01:21:42.713  INFO 5626 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 152ms. Found 1 repository interfaces.
+2019-10-03 01:21:43.210  INFO 5626 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a6527aa5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-03 01:21:43.442  INFO 5626 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-10-03 01:21:43.981  INFO 5626 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-10-03 01:21:44.050  INFO 5626 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-03 01:21:44.112  INFO 5626 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-03 01:21:44.114  INFO 5626 --- [main] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
+2019-10-03 01:21:44.267  INFO 5626 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-03 01:21:44.470  INFO 5626 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-03 01:21:45.278  INFO 5626 --- [main] o.h.t.schema.internal.SchemaCreatorImpl  : HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@3a6e9856'
+2019-10-03 01:21:45.281  INFO 5626 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-10-03 01:21:45.750  INFO 5626 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'clientInboundChannelExecutor'
+2019-10-03 01:21:45.759  INFO 5626 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'clientOutboundChannelExecutor'
+2019-10-03 01:21:45.778  INFO 5626 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'messageBrokerTaskScheduler'
+2019-10-03 01:21:45.842  INFO 5626 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'brokerChannelExecutor'
+2019-10-03 01:21:46.744  WARN 5626 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-03 01:21:47.139  INFO 5626 --- [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Starting...
+2019-10-03 01:21:47.140  INFO 5626 --- [main] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=true, SimpleBrokerMessageHandler [DefaultSubscriptionRegistry[cache[0 destination(s)], registry[0 sessions]]]]
+2019-10-03 01:21:47.140  INFO 5626 --- [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Started.
+2019-10-03 01:21:47.152  INFO 5626 --- [main] drawgame.DrawchatApplicationTests        : Started DrawchatApplicationTests in 5.65 seconds (JVM running for 6.548)
+2019-10-03 01:21:47.268  INFO 5626 --- [Thread-3] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopping...
+2019-10-03 01:21:47.269  INFO 5626 --- [Thread-3] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=false, SimpleBrokerMessageHandler [DefaultSubscriptionRegistry[cache[0 destination(s)], registry[0 sessions]]]]
+2019-10-03 01:21:47.269  INFO 5626 --- [Thread-3] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopped.
+2019-10-03 01:21:47.272  INFO 5626 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'brokerChannelExecutor'
+2019-10-03 01:21:47.273  INFO 5626 --- [Thread-3] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'messageBrokerTaskScheduler'
+2019-10-03 01:21:47.273  INFO 5626 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'clientOutboundChannelExecutor'
+2019-10-03 01:21:47.273  INFO 5626 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'clientInboundChannelExecutor'
+2019-10-03 01:21:47.274  INFO 5626 --- [Thread-3] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-10-03 01:21:47.276  INFO 5626 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-10-03 01:21:47.282  INFO 5626 --- [Thread-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-10-03 01:22:10.471  INFO 5636 --- [main] drawgame.DrawchatApp                     : Starting DrawchatApp on kylehyegeungug.student.iastate.edu with PID 5636 (/Users/HyegeunGug/Desktop/sb_2/Backend/Kyle/drawchat/drawchat/target/classes started by HyegeunGug in /Users/HyegeunGug/Desktop/sb_2/Backend/Kyle/drawchat/drawchat)
+2019-10-03 01:22:10.476  INFO 5636 --- [main] drawgame.DrawchatApp                     : No active profile set, falling back to default profiles: default
+2019-10-03 01:22:11.254  INFO 5636 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-03 01:22:11.469  INFO 5636 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 203ms. Found 1 repository interfaces.
+2019-10-03 01:22:11.966  INFO 5636 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a1b5435e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-03 01:22:12.345  INFO 5636 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-10-03 01:22:12.373  INFO 5636 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-03 01:22:12.373  INFO 5636 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-03 01:22:12.474  INFO 5636 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-03 01:22:12.474  INFO 5636 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1943 ms
+2019-10-03 01:22:12.658  INFO 5636 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-10-03 01:22:13.098  INFO 5636 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-10-03 01:22:13.155  INFO 5636 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-03 01:22:13.219  INFO 5636 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-03 01:22:13.221  INFO 5636 --- [main] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
+2019-10-03 01:22:13.394  INFO 5636 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-03 01:22:13.562  INFO 5636 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-03 01:22:14.232  INFO 5636 --- [main] o.h.t.schema.internal.SchemaCreatorImpl  : HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@16f7f59f'
+2019-10-03 01:22:14.234  INFO 5636 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-10-03 01:22:14.577  INFO 5636 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'clientInboundChannelExecutor'
+2019-10-03 01:22:14.583  INFO 5636 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'clientOutboundChannelExecutor'
+2019-10-03 01:22:14.590  INFO 5636 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'messageBrokerTaskScheduler'
+2019-10-03 01:22:14.835  INFO 5636 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'brokerChannelExecutor'
+2019-10-03 01:22:15.206  WARN 5636 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-03 01:22:15.446  INFO 5636 --- [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Starting...
+2019-10-03 01:22:15.446  INFO 5636 --- [main] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=true, SimpleBrokerMessageHandler [DefaultSubscriptionRegistry[cache[0 destination(s)], registry[0 sessions]]]]
+2019-10-03 01:22:15.447  INFO 5636 --- [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Started.
+2019-10-03 01:22:15.490  INFO 5636 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-03 01:22:15.494  INFO 5636 --- [main] drawgame.DrawchatApp                     : Started DrawchatApp in 5.49 seconds (JVM running for 5.926)
+2019-10-03 01:22:19.350  INFO 5636 --- [Thread-4] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopping...
+2019-10-03 01:22:19.351  INFO 5636 --- [Thread-4] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=false, SimpleBrokerMessageHandler [DefaultSubscriptionRegistry[cache[0 destination(s)], registry[0 sessions]]]]
+2019-10-03 01:22:19.351  INFO 5636 --- [Thread-4] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopped.
+2019-10-03 01:22:19.354  INFO 5636 --- [Thread-4] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'brokerChannelExecutor'
+2019-10-03 01:22:19.356  INFO 5636 --- [Thread-4] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'messageBrokerTaskScheduler'
+2019-10-03 01:22:19.358  INFO 5636 --- [Thread-4] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'clientOutboundChannelExecutor'
+2019-10-03 01:22:19.358  INFO 5636 --- [Thread-4] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'clientInboundChannelExecutor'
+2019-10-03 01:22:19.359  INFO 5636 --- [Thread-4] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-10-03 01:22:19.362  INFO 5636 --- [Thread-4] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-10-03 01:22:19.368  INFO 5636 --- [Thread-4] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-10-03 01:22:26.361  INFO 5637 --- [main] drawgame.DrawchatApp                     : Starting DrawchatApp on kylehyegeungug.student.iastate.edu with PID 5637 (/Users/HyegeunGug/Desktop/sb_2/Backend/Kyle/drawchat/drawchat/target/classes started by HyegeunGug in /Users/HyegeunGug/Desktop/sb_2/Backend/Kyle/drawchat/drawchat)
+2019-10-03 01:22:26.363  INFO 5637 --- [main] drawgame.DrawchatApp                     : No active profile set, falling back to default profiles: default
+2019-10-03 01:22:26.897  INFO 5637 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-03 01:22:26.956  INFO 5637 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 53ms. Found 1 repository interfaces.
+2019-10-03 01:22:27.243  INFO 5637 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6c81fbfd] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-03 01:22:27.453  INFO 5637 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-10-03 01:22:27.472  INFO 5637 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-03 01:22:27.473  INFO 5637 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-03 01:22:27.546  INFO 5637 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-03 01:22:27.546  INFO 5637 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1151 ms
+2019-10-03 01:22:27.670  INFO 5637 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-10-03 01:22:28.036  INFO 5637 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-10-03 01:22:28.076  INFO 5637 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-03 01:22:28.124  INFO 5637 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-03 01:22:28.125  INFO 5637 --- [main] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
+2019-10-03 01:22:28.233  INFO 5637 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-03 01:22:28.340  INFO 5637 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-03 01:22:28.862  INFO 5637 --- [main] o.h.t.schema.internal.SchemaCreatorImpl  : HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@a54acec'
+2019-10-03 01:22:28.865  INFO 5637 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-10-03 01:22:29.151  INFO 5637 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'clientInboundChannelExecutor'
+2019-10-03 01:22:29.155  INFO 5637 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'clientOutboundChannelExecutor'
+2019-10-03 01:22:29.160  INFO 5637 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'messageBrokerTaskScheduler'
+2019-10-03 01:22:29.187  INFO 5637 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'brokerChannelExecutor'
+2019-10-03 01:22:29.381  WARN 5637 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-03 01:22:29.530  INFO 5637 --- [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Starting...
+2019-10-03 01:22:29.530  INFO 5637 --- [main] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=true, SimpleBrokerMessageHandler [DefaultSubscriptionRegistry[cache[0 destination(s)], registry[0 sessions]]]]
+2019-10-03 01:22:29.531  INFO 5637 --- [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Started.
+2019-10-03 01:22:29.566  INFO 5637 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-03 01:22:29.568  INFO 5637 --- [main] drawgame.DrawchatApp                     : Started DrawchatApp in 3.513 seconds (JVM running for 3.95)
+2019-10-03 01:22:33.668  INFO 5637 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-10-03 01:22:33.672  INFO 5637 --- [RMI TCP Connection(2)-127.0.0.1] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopping...
+2019-10-03 01:22:33.672  INFO 5637 --- [RMI TCP Connection(2)-127.0.0.1] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=false, SimpleBrokerMessageHandler [DefaultSubscriptionRegistry[cache[0 destination(s)], registry[0 sessions]]]]
+2019-10-03 01:22:33.673  INFO 5637 --- [RMI TCP Connection(2)-127.0.0.1] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopped.
+2019-10-03 01:22:33.674  INFO 5637 --- [RMI TCP Connection(2)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'brokerChannelExecutor'
+2019-10-03 01:22:33.674  INFO 5637 --- [RMI TCP Connection(2)-127.0.0.1] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'messageBrokerTaskScheduler'
+2019-10-03 01:22:33.675  INFO 5637 --- [RMI TCP Connection(2)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'clientOutboundChannelExecutor'
+2019-10-03 01:22:33.675  INFO 5637 --- [RMI TCP Connection(2)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'clientInboundChannelExecutor'
+2019-10-03 01:22:33.676  INFO 5637 --- [RMI TCP Connection(2)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-10-03 01:22:33.679  INFO 5637 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-10-03 01:22:33.686  INFO 5637 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
